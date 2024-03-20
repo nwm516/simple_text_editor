@@ -1,5 +1,3 @@
-import org.w3c.dom.Text;
-
 import java.util.Stack;
 
 public class Main {
